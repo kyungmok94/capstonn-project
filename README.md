@@ -17,7 +17,7 @@ This project is part of my Data Science nanodigry, and the goal is to see how St
 - profile.json : demographic data for each customer.
 - README : Project Overall Description Summary
 - Capstone_notebook.ipynb : Include project-wide content
-- 
+
 # Results
 The main findings of the code can be found [here](https://kyungmok.medium.com/capstone-design-c1200e3b1852)
 
