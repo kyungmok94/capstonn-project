@@ -15,10 +15,8 @@ Builds and coordinates models using machine learning APIs within Spark ML.
 
 **STRUCTURE**\
 The following folders exist in the repository:
->*1. data* - Contains mini-sparkification data sets.Unable to upload 123MB data due to \ **Note:github limit**.\
->*2. Sparkify.ipynb* - Includes analysis and detailed coding of the project.\
->*3. sparkify.html* - Contains analysis and detailed coding for your project in HTML format.\
->*4. readme.md* - Readme file.
+>*1. Sparkify.ipynb* - Includes analysis and detailed coding of the project.\
+>*2. readme.md* - Readme file.
 
 **Pre-requisites** \
   Following packages should be installed in the system before running the notebook.
