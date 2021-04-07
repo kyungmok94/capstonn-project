@@ -1,23 +1,23 @@
-# sparkify-capstone-project
-This is the capstone project,as part of this one churn prediction system is built using pyspark.
+# Sparkify-Capstone Project
+This is the Capstone project. It was built using pyspark as part of this one deviance prediction system.
 
 **Project Overview** \
-In this project, we will use PySpark to predict if a customer will cancel the subscription or not for a online music streaming company
-called Sparkify. This is a classification problem, as we will predict if a customer will churn or not. This is a pain area in all the
-areas now a days, IT, Healthcare, Infrastructure etc.
+This project will use PySpark to predict whether an online music streaming company will unsubscribe.
+It's called Sparky Pie. This is a classification issue, as you can predict whether the customer will be swayed or not. Everything's painful here.
+It is currently being used in a variety of areas, including IT, healthcare, and infrastructure.
 
 **Project Motivation** \
-Machine learning is critical to helping different organizations understand which messages are relevant to them and which messages to prioritize. Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. Additionally, the ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data. The full dataset is 12GB, of which we analyzed a mini subset of 123MB. We will use PySpark extensively to solve this problem.
+Machine learning is very important for different organizations to understand messages related to them and messages to prioritize. Deviation prediction is a challenging and common problem that data scientists and analysts regularly face in every enterprise facing their customers. In addition, the ability to efficiently manipulate large datasets using sparks is one of the most demanding technologies in the data field. The entire dataset is 12GB, of which 123MB of mini-subset was analyzed. We will use PySpark extensively to solve this problem.
 
-**Steps** \
-  Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes.
-  Use the machine learning APIs within Spark ML to build and tune models.
-  
-**Structure**\
-The repository contains following folders.
->*1. data* - contains the mini sparkify dataset.\ **Note :Could not upload 123MB data due to github limit**.\
->*2. sparkify.ipynb* - Contains the analysis and detailed coding of the project.\
->*3. sparkify.html* - Contains the analysis and detailed coding of the project in a html format.\
+**Step** \
+Load large data sets into the spark and manipulate data using spark SQL and spark data frames.
+Builds and coordinates models using machine learning APIs within Spark ML.
+
+**STRUCTURE**\
+The following folders exist in the repository:
+>*1. data* - Contains mini-sparkification data sets.Unable to upload 123MB data due to \ **Note:github limit**.\
+>*2. Sparkify.ipynb* - Includes analysis and detailed coding of the project.\
+>*3. sparkify.html* - Contains analysis and detailed coding for your project in HTML format.\
 >*4. readme.md* - Readme file.
 
 **Pre-requisites** \
@@ -37,12 +37,6 @@ The repository contains following folders.
   **Blog**
   The analysis could be found at my blog link. 
   
-  >https://medium.com/@anindya.prince/sparkify-churn-prediction-using-pyspark-36b853ab0f2a?source=friends_link&sk=a9af69cc0276773aac059012cb8f80ad
+  >https://kyungmok.medium.com/spark-project-d515f31de2b6
   
 
-**References**
-
-  >https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html
-  >https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa
-  >https://spark.apache.org/docs/2.2.0/api/java/index.html?org/apache/spark/ml/evaluation/BinaryClassificationEvaluator.html
-  >https://spark.apache.org/docs/2.1.0/ml-classification-regression.html#random-forest-classifier
